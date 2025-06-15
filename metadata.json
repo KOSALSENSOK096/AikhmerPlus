@@ -1,0 +1,6 @@
+{
+  "name": "AI Plus Khmer Chat",
+  "description": "An AI-powered chat application designed for engaging conversations, with a focus on Khmer language interactions, powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
