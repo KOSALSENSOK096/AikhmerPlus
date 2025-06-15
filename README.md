@@ -1,32 +1,25 @@
-# AI Plus Khmer Chat
+# 🤖 AI Plus Khmer Chat
 
 A modern AI chat application that supports both Khmer and English languages, powered by Google's Gemini AI.
 
-## Features
+## ✨ Features
 
-- 🤖 AI Chat with Gemini 1.5 Flash model
 - 🌏 Bilingual support (Khmer/English)
-- 🖼️ Image processing and OCR capabilities
-- 🌙 Dark/Light theme support
+- 💬 Advanced AI Chat capabilities
+- 🖼️ Image processing and OCR
+- 🌙 Dark/Light theme
 - 📱 Responsive design
-- 🔒 Secure authentication system
+- 🔒 Secure authentication
 
-## Tech Stack
+## 🚀 Tech Stack
 
-- React
-- TypeScript
-- Vite
-- Google Gemini AI API
-- Tailwind CSS
+- ⚛️ React
+- 📘 TypeScript
+- ⚡ Vite
+- 🧠 Google Gemini AI
+- 🎨 Tailwind CSS
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (Latest LTS version recommended)
-- Gemini API Key
-
-### Installation
+## 🛠️ Installation
 
 1. Clone the repository:
 ```bash
@@ -39,7 +32,8 @@ cd AikhmerPlus
 npm install
 ```
 
-3. Create a `.env` file in the root directory and add your Gemini API key:
+3. Set up environment variables:
+Create a `.env` file and add:
 ```
 GEMINI_API_KEY=your_api_key_here
 ```
@@ -49,20 +43,14 @@ GEMINI_API_KEY=your_api_key_here
 npm run dev
 ```
 
-## Environment Variables
+## 🌟 Contributing
 
-- `GEMINI_API_KEY`: Your Google Gemini API key
+Contributions are welcome! Feel free to submit issues and pull requests.
 
-## Contributing
+## 📝 License
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+MIT License - feel free to use this project for your own purposes.
 
-## License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-KOSAL SENSOK - [@KOSALSENSOK096](https://github.com/KOSALSENSOK096)
-# AikhmerPlus 
-# AikhmerPlus 
+KOSAL SENSOK - [GitHub](https://github.com/KOSALSENSOK096)
