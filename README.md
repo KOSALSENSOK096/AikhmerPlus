@@ -1,56 +1,41 @@
-# 🤖 AI Plus Khmer Chat
+# AikhmerPlus
 
-A modern AI chat application that supports both Khmer and English languages, powered by Google's Gemini AI.
+AikhmerPlus is an AI-powered chat application that supports Khmer language interaction. It provides a modern, user-friendly interface for conversing with AI in both Khmer and English.
 
-## ✨ Features
+## Features
 
-- 🌏 Bilingual support (Khmer/English)
-- 💬 Advanced AI Chat capabilities
-- 🖼️ Image processing and OCR
-- 🌙 Dark/Light theme
-- 📱 Responsive design
-- 🔒 Secure authentication
+- 🇰🇭 Khmer language support
+- 💬 Real-time chat interface
+- 🌓 Dark/Light mode
+- 🎨 Modern UI with Tailwind CSS
+- ⚡ Fast and responsive design
+- 📱 Mobile-friendly interface
 
-## 🚀 Tech Stack
+## Tech Stack
 
-- ⚛️ React
-- 📘 TypeScript
-- ⚡ Vite
-- 🧠 Google Gemini AI
-- 🎨 Tailwind CSS
+- React
+- Tailwind CSS
+- Google Generative AI
+- ESM imports for modern web development
 
-## 🛠️ Installation
+## Getting Started
 
 1. Clone the repository:
-```bash
-git clone https://github.com/KOSALSENSOK096/AikhmerPlus.git
-cd AikhmerPlus
-```
+   ```bash
+   git clone https://github.com/KOSALSENSOK096/AikhmerPlus.git
+   ```
 
-2. Install dependencies:
-```bash
-npm install
-```
+2. Open `index.html` in your browser to start using the application.
 
-3. Set up environment variables:
-Create a `.env` file and add:
-```
-GEMINI_API_KEY=your_api_key_here
-```
+## Contributing
 
-4. Start the development server:
-```bash
-npm run dev
-```
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 🌟 Contributing
+## License
 
-Contributions are welcome! Feel free to submit issues and pull requests.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📝 License
+## Author
 
-MIT License - feel free to use this project for your own purposes.
-
-## 👨‍💻 Author
-
-KOSAL SENSOK - [GitHub](https://github.com/KOSALSENSOK096)
+- KOSAL SENSOK
+- GitHub: [@KOSALSENSOK096](https://github.com/KOSALSENSOK096)
