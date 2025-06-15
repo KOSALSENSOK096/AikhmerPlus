@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="128" fill="#6366f1"/>
+  
+  <!-- Khmer letter ក (KO) stylized -->
+  <path d="M256 96
+           C 356 96, 416 176, 416 256
+           C 416 336, 356 416, 256 416
+           C 156 416, 96 336, 96 256
+           C 96 176, 156 96, 256 96
+           M 256 144
+           C 196 144, 144 196, 144 256
+           C 144 316, 196 368, 256 368
+           C 316 368, 368 316, 368 256
+           C 368 196, 316 144, 256 144
+           M 256 192
+           L 256 320
+           M 208 224
+           L 304 224" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="32" 
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg> 
